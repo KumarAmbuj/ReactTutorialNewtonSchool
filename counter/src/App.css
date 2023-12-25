@@ -1,0 +1,48 @@
+
+.container{
+  height:200px;
+  width:200px;
+  background-color: rgb(194, 189, 189);
+  border: 1px solid red;
+  margin-left: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+}
+.btn{
+  height:40px;
+  
+  background-color: black;
+  color:white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin:auto;
+}
+.show{
+  height:40px;
+  width: 40px;
+  background-color: black;
+  color: yellow;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+
+}
+.card {
+  height: 200px;
+  width: 200px;
+  background-color: rgb(189, 181, 181);
+  color: black;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 200px;
+}

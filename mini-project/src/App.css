@@ -1,0 +1,13 @@
+::-webkit-scrollbar {
+    width: 5px; 
+    height:30px;
+  }
+ 
+  ::-webkit-scrollbar-thumb {
+    background-color: rgb(185, 180, 180); /* Set the color to white */
+    border-radius: 5px; /* Round the edges of the thumb */
+  }
+  /* Define the style for the track (the area the thumb moves along) of the scroll bar */
+  ::-webkit-scrollbar-track {
+    background-color: transparent; /* Make the track transparent */
+  }

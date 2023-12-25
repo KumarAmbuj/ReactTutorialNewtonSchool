@@ -1,0 +1,15 @@
+.about{
+    width:80%;
+    margin:auto;
+    background-color: rgb(5,3,41);
+    border-radius: 20px;
+    line-height: 26px;
+    font-size: 18px;
+    margin-top: 20px;
+    padding:5px 30px 30px 30px;
+    color:rgb(175,171,171);
+    
+}
+.marginTop{
+    margin-top: 12px;
+}

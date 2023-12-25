@@ -1,0 +1,13 @@
+th,td{
+  padding:12px;
+  background-color: rgb(173, 167, 167);
+  color: black;
+
+}
+table{
+  border: 5px solid black;
+  margin: auto;
+}
+.data{
+  margin: auto;
+}
